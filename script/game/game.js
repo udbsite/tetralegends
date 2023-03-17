@@ -55,7 +55,7 @@ export default class Game {
     this.smallStats = {
       score: true,
       fallspeed: true,
-      entrydelay: true,
+      entrydelay: false,
       pace: true,
     };
     this.endingStats = {
